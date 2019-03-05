@@ -11,7 +11,7 @@ A fluent Android animation library !
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
-[![png](https://raw.githubusercontent.com/florent37/ViewAnimator/master/montain_small.jpg)](https://github.com/florent37/ViewAnimator)
+[![png](https://media.giphy.com/media/tIjzLqDybiIidHjWGy/giphy.gif)]
 
 # Usage
 
